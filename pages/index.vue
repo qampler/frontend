@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Qampler</h1>
+        <SamplerPad src="/audio/kick.wav" />
     </div>
 </template>
 
